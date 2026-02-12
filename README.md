@@ -1,6 +1,6 @@
 # RateUsWidget
 
-[![Unity Version](https://img.shields.io/badge/Unity-2020.3%2B-blue?logo=unity)](https://unity.com/)
+[![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue?logo=unity)](https://unity.com/)
 [![License](https://img.shields.io/badge/License-MPL--2.0-orange)](LICENSE)
 [![Discord](https://img.shields.io/discord/847940058476052491?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/Ppsb89naWf)
 
