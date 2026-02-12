@@ -16,7 +16,7 @@ Animated star-rating widget for Unity Editor windows (IMGUI). Lets users rate yo
 
 ## Demo
 
-https://github.com/Code-Stage/RateUsWidget/raw/main/Media/RateUsWidget.mp4
+https://github.com/user-attachments/assets/bfd04f56-5c80-4b57-b7fa-c15c3dd6f7ab
 
 ## Installation
 
