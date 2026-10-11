@@ -1,0 +1,6 @@
+{
+  "stable-branch": "main",
+  "dev-branch": "dev",
+  "release-prefix": "release/",
+  "release-enabled": false
+}
