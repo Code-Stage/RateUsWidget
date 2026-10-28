@@ -1,0 +1,5 @@
+{
+  "name": "CodeStage.RateUsWidget.Tests",
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

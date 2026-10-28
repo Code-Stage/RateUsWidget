@@ -80,8 +80,8 @@ namespace CodeStage.EditorCommon.Tools
 			var totalWidth = StarCount * StarSize + (StarCount - 1) * StarSpacing;
 			var totalRect = GUILayoutUtility.GetRect(totalWidth, RowHeight, GUIStyle.none, GUILayout.Height(RowHeight), GUILayout.ExpandHeight(false));
 
-			var filledIcon = CSEditorIcons.FavoriteIcon;
-			var emptyIcon = CSEditorIcons.Favorite;
+			var filledIcon = EditorGUIUtility.IconContent("Favorite Icon").image;
+			var emptyIcon = EditorGUIUtility.IconContent("Favorite").image;
 			var starY = totalRect.y + (totalRect.height - StarSize) * 0.5f;
 			var starsRect = new Rect(totalRect.x, starY, totalWidth, StarSize);
 			var hoveredStarNow = eventType == EventType.Layout ? hoveredStar : 0;
